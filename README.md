@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pavithra
+- 👋 Hi, I’m Pavithra
 - 👀 I’m interested in data analysis/ Business intelligence analyst
 - 🌱 I’m skilled in Tableau, Power BI, Mysql, and Python.
 - 💞️ I’m looking for a career as a data analysis/ Business intelligence analyst
