@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pavithra, a graduate of Master's in Mathematics.
+- 👋 Hi, I’m Pavithra, a graduate of Master science in Mathematics.
 - 👀 I’m interested in data analyst/ Business intelligence analyst
 - 🌱 I’m skilled in Tableau, Power BI, Mysql, and Python.
 - 💞️ I’m looking for a career as a data analysis/ Business intelligence analyst
