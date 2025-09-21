@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pavithra, a graduate of Master's Science in Mathematics.
 - 👀 I’m interested in data analysis/ Business intelligence analysis
-- 🌱 I’m skilled in Tableau, Power BI, MySQL, and Python.
+- 🌱 I’m skilled in Tableau, Power BI, MySQL, and Looker Studio.
 - 💞️ I’m looking for a career as a data analysis/ Business intelligence analyst
 - 📫 How to reach me
 - pavithra17860@gmail.com
