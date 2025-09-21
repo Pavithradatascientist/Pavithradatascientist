@@ -5,6 +5,7 @@
 - 📫 How to reach me
 - pavithra17860@gmail.com
 - https://www.linkedin.com/in/pavithra-datascientist/
+- https://public.tableau.com/app/profile/pavi.m/vizzes
 
 <!---
 Pavithradatascientist/Pavithradatascientist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
